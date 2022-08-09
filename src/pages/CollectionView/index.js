@@ -147,6 +147,8 @@ export default function CollectionView({light, vibrant, dark}) {
                       window.open(`https://etherscan.io/address/${address_id}`, "_blank")
                     }else if(blockchain_id == 137){
                       window.open(`https://polygonscan.com/address/${address_id}`, "_blank")
+                    }else if(blockchain_id == 56){
+                      window.open(`https://bscscan.com/address/${address_id}`, "_blank")
                     }else{
                       window.open(`https://snowtrace.io/address/${address_id}`, "_blank")
                     }
