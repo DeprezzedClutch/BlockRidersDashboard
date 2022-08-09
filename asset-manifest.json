@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BlockRidersDashboard/static/css/main.cf3358bb.chunk.css",
-    "main.js": "/BlockRidersDashboard/static/js/main.5653cf60.chunk.js",
-    "main.js.map": "/BlockRidersDashboard/static/js/main.5653cf60.chunk.js.map",
+    "main.js": "/BlockRidersDashboard/static/js/main.4d4388c8.chunk.js",
+    "main.js.map": "/BlockRidersDashboard/static/js/main.4d4388c8.chunk.js.map",
     "runtime-main.js": "/BlockRidersDashboard/static/js/runtime-main.d22ca683.js",
     "runtime-main.js.map": "/BlockRidersDashboard/static/js/runtime-main.d22ca683.js.map",
     "static/js/2.e4c1d404.chunk.js": "/BlockRidersDashboard/static/js/2.e4c1d404.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d22ca683.js",
     "static/js/2.e4c1d404.chunk.js",
     "static/css/main.cf3358bb.chunk.css",
-    "static/js/main.5653cf60.chunk.js"
+    "static/js/main.4d4388c8.chunk.js"
   ]
 }
