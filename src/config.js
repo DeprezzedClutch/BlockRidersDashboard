@@ -21,6 +21,7 @@ export const CONFIG = {
 
   // Supported networks - just for your reference
   FILTER_OPTIONS : [
+    {name: "Binance", value: 56},
     {name: "Ethereum", value: 1},
     {name: "Polygon", value: 137},
     {name: "Avalanche", value: 43114},
